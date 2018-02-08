@@ -29,7 +29,7 @@ logging:
   level.com.skcc.dao.ContentMapper: ERROR
   level.com.skcc: OFF
 
-name: default!
+name: default
 
 ---
 spring:
